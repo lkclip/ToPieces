@@ -11,9 +11,7 @@ The game saves data in ux0:data, so make sure that folder exists.
 ## Credits
 
 [lk clip | u/IamFilt](https://twitter.com/lk_clip) - coding and assets
-
 [With Ink Instead of Blood](https://coatedwithfilth.bandcamp.com) - main menu music
-
 [Coated With Filth](https://coatedwithfilth.bandcamp.com) - soundtrack
 
 ## Changelog
