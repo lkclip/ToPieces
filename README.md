@@ -8,9 +8,9 @@ A hacked console is required. Simply download VPK and use VitaShell to install. 
 
 ## Credits
 
-*[lk clip | u/IamFilt](https://twitter.com/lk_clip) - coding and assets
-*[With Ink Instead of Blood](https://coatedwithfilth.bandcamp.com) - main menu music
-*[Coated With Filth](https://coatedwithfilth.bandcamp.com) - soundtrack
+* [lk clip | u/IamFilt](https://twitter.com/lk_clip) - coding and assets
+* [With Ink Instead of Blood](https://coatedwithfilth.bandcamp.com) - main menu music
+* [Coated With Filth](https://coatedwithfilth.bandcamp.com) - soundtrack
 
 ## Changelog
 
